@@ -9,9 +9,7 @@
 <br/>
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-siriki45&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram-siriki45" /> </p>
-
 <p align="left"> <a href="https://twitter.com/abhi_siriki45" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_siriki45?logo=twitter&style=for-the-badge" alt="abhi_siriki45" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/abhiram-siriki45/" target="blank"><img src="https://img.shields.io/linkedin/follow/abhi-siriki45?logo=linkedin&style=for-the-badge" alt="abhi-siriki45" /></a> </p>
 <br/>
 <hr/>
 - 🌱 I’m currently Studying **Mechanical Engineering**🛠️
