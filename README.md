@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uOldLME8Hr0lHEoNKQVvAl6tBisKD_ST/view?usp=sharing](https://drive.google.com/file/d/1uOldLME8Hr0lHEoNKQVvAl6tBisKD_ST/view?usp=sharing)
 
-- ⚡ Fun fact **I can write "Hello World!" in [number] programming languages! 😂**
+- ⚡ Fun fact **I can write "Hello World!" in programming languages! 😂**
 <br/>
 <hr/>
 <h3 align="left">Connect with me: <img src="https://media.lordicon.com/icons/wired/flat/2755-arrow-big-down.gif"width="20px"></a></h3>
