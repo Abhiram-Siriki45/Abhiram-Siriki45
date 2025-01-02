@@ -57,3 +57,6 @@
 <br/>
 <hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-siriki45&" alt="abhiram-siriki45" /></p>
+</div>
+
+<img height="150" alt="Thanks for visiting me" width="150%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
