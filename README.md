@@ -50,16 +50,14 @@
   <br/><br/><br/>
 </div>
 <hr/>
+<br>
+<h2><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-siriki45&show_icons=true&locale=en&layout=compact" alt="abhiram-siriki45" /></p></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-siriki45&show_icons=true&locale=en&layout=compact" alt="abhiram-siriki45" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-siriki45&show_icons=true&locale=en" alt="abhiram-siriki45" /></p>
+<h2><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-siriki45&show_icons=true&locale=en" alt="abhiram-siriki45" /></p></h2>
 <br/>
 <hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-siriki45&" alt="abhiram-siriki45" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhiram-Siriki45&theme=hacker-inverted" alt="GitHub Streak" /></a>
+<h2><p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-siriki45&" alt="abhiram-siriki45" /></p></h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhiram-Siriki45&theme=hacker-inverted)](https://git.io/streak-stats)
 </div>
 
 <img height="130" alt="Thanks for visiting me" width="150%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
