@@ -46,18 +46,33 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
   <br/><br/><br/>
 </div>
 <hr/>
 <br>
-<h2><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-siriki45&show_icons=true&locale=en&layout=compact" alt="abhiram-siriki45" /></p></h2>
-
-<h2><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-siriki45&show_icons=true&locale=en" alt="abhiram-siriki45" /></p></h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-siriki45&show_icons=true&locale=en&layout=compact" alt="abhiram-siriki45" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-siriki45&show_icons=true&locale=en" alt="abhiram-siriki45" /></p>
 <br/>
 <hr/>
-<h2><p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-siriki45&" alt="abhiram-siriki45" /></p></h2>
-
 </div>
-
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Abhiram-Siriki45&theme=hacker" alt="GitHub Streak">
+  </a>
+</div>
 <img height="130" alt="Thanks for visiting me" width="150%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
