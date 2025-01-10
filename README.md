@@ -45,7 +45,7 @@
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Snake Eating My Contributions 🐍</h2>
   <br>
   <picture>
   <source
@@ -64,13 +64,18 @@
   <br/><br/><br/>
 </div>
 <hr/>
-<br>
+<div align="center">
+  <h2>📊 GitHub Stats 📊 </h2>
+  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-siriki45&show_icons=true&locale=en&layout=compact" alt="abhiram-siriki45" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-siriki45&show_icons=true&locale=en" alt="abhiram-siriki45" /></p>
 <br/>
-<hr/>
 </div>
-<br>
+</div>
+<hr/>
+<div align="center">
+  <h2>👨🏻‍💻 Contributions & Streak 🔥</h2>
+  <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Abhiram-Siriki45&theme=hacker" alt="GitHub Streak">
